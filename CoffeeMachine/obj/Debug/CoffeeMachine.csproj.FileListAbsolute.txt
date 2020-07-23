@@ -1,0 +1,15 @@
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\MainWindow.baml
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\MainWindow.g.cs
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\App.g.cs
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine_MarkupCompile.cache
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.g.resources
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.Properties.Resources.resources
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.GenerateResource.Cache
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\rjain10\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
